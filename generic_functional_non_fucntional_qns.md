@@ -1,4 +1,4 @@
-# System Design Requirement Questions to ask
+# Requirement Questions to ask
 
 If you are a beginner in system design, it might be overwhelming to figure out where to start. Here are some examples of good system design questions to help you get started, along with their functional and non-functional requirements:
 
@@ -58,3 +58,43 @@ If you are a beginner in system design, it might be overwhelming to figure out w
     - The system should have high throughput and be able to process a large number of requests per second.
 
 Remember, the key to good system design is to break down complex problems into smaller, more manageable components. By asking these types of questions, you can start to think about the different components of a system and how they interact with each other. Good luck!
+
+## Question Categories
+**Other categories of Functional Requirements to think about are:**
+
+- Business Rules
+- Transaction corrections, adjustments, and cancellations
+- Administrative functions
+- Authentication
+- Authorization levels
+- Audit Tracking
+- External Interfaces
+- Certification Requirements
+- Reporting Requirements
+- Historical Data
+
+**Examples Non Functional Requirements**
+
+- Speed. Speed determines how fast an application responds to commands. ...
+- Security. ...
+- Portability. ...
+- Compatibility. ...
+- Capacity. ...
+- Reliability. ...
+- Environment. ...
+- Localization/ Data Nationalization eg GDPR, California Data Laws.
+- Performance – for example Response Time, Throughput, Utilization, Static Volumetric
+- Scalability
+- Capacity
+- Availability
+- Reliability
+- Recoverability
+- Maintainability
+- Serviceability
+- Security
+- Regulatory
+- Manageability
+- Environmental
+- Data Integrity
+- Usability
+- Interoperability
